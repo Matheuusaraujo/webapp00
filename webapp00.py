@@ -8,6 +8,7 @@ Escrever(db)
 
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
 st.title("MEU 1º WEB APP STREAMLIT")
+st.title("HELLO WORD")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
 st.header("Hejheheheh! Prof. Massaki")
